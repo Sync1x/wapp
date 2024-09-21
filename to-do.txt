@@ -1,0 +1,34 @@
+Done:
+Create Tkinter GUI:
+    Enter button
+    label to enter city/state
+    entry for weather
+    frame for scope
+Implemented the Weather API
+GUI now gives weather 
+Made a simple Login GUI
+
+Create a sign up page <- 
+    - Implemented sign up page
+    - Added TOS
+    - Added Choose User + Password
+    - Added transition from Login to Sign up using the Sign Up button
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To-Do: 
+Implement loginsystem: 
+    1. login system needs to have a .txt that saves login information 
+    2. a dictionary or list that takes a Username and Password
+    3. login valid screen
+    4. takes you to main weather system 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Later:
+Pin citys/states weather for login
+    1. setup pin that will save the information of states/citys that the specific person uses <- implemented into the .txt that saves there login information
